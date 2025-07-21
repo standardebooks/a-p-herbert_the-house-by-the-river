@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-q{
-	font-style: italic;
-}
-
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
@@ -30,12 +26,12 @@ p span.i1{
 }
 
 #chapter-18 > blockquote{
-	font-variant: all-small-caps;
+	font-size: smaller;
 	text-align: center;
 	text-indent: 0;
+	text-transform: uppercase;
 }
 
 #chapter-18 > blockquote b{
-	font-variant: none;
-	text-transform: uppercase;
+	font-size: larger;
 }
