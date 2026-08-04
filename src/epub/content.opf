@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A celebrated young poet commits a spontaneous act of violence, then has to deal with the consequences.</dc:abstract>
+		<meta property="schema:abstract">A celebrated young poet commits a spontaneous act of violence, then has to deal with the consequences.</meta>
 		<dc:description>
 			&lt;p&gt;In west London on the bank of the Thames is a well-heeled but down to earth street. The residents are all accomplished in their own ways, but the shining star that dominates their attention is Stephen Byrne, the war poet. But Stephen isn’t the perfect specimen that they imagine him to be: he spontaneously assaults his new maid, killing her, and setting his life—and that of his friend John Egerton—on a dangerously out-of-control path.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The House by the River&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/a-p-herbert"&gt;A. P. Herbert’s&lt;/a&gt; second novel, following the success of &lt;i&gt;The Secret Battle&lt;/i&gt;, and it was here that he began to develop—despite the subject matter—his trademark wit. These days the novel is perhaps best known as the source material for Fritz Lang’s 1950 film of the same name.&lt;/p&gt;
